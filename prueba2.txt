@@ -1,0 +1,4 @@
+Esta es mi segunda prueba, recuerda estos comandos:
+	-git config --global user.name "Gertswito"
+	-git config --global user.email "gertjustgonzalezbreto@gmail.com"
+LISTO :D
